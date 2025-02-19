@@ -1,6 +1,8 @@
 # Student Dashboard in NEXT.JS
 All the requirements mentioned in the assignment are completed 
 
+hear is the live website [link.](https://whatbytes-assignment-ki88.vercel.app/)
+
 ![screenshot](public/dashboardss.png)
 
 ![screenshot](public/mobile.png)
