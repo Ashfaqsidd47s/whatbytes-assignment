@@ -7,7 +7,6 @@ import {
   XAxis,
   YAxis,
   ReferenceLine,
-  Dot,
   ReferenceDot,
 } from "recharts";
 import {

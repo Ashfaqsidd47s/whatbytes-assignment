@@ -10,7 +10,7 @@ export default function UserInfo() {
 
   useEffect(() => {
     initializeUser()
-  }, [])
+  }, [initializeUser])
   
   return (
     <div className=' p-1 pr-4 flex items-center gap-2 rounded-md shadow-lg border border-gray-200'>

@@ -50,7 +50,7 @@ export default function UpdateData() {
       setValue("rank", user.rank)
       setValue("percentile", user.percentile)
       setValue("marks", user.marks)
-    }, [user])
+    }, [user, setValue])
     
 
     const formValues = watch()
