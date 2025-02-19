@@ -1,6 +1,5 @@
 "use client"
 
-import { number, string } from 'zod';
 import { create } from 'zustand'
 
 type UserData = {
@@ -48,9 +47,6 @@ const getInitialData = ()=> {
     };
 }
 
-const storeData = ( newUser: UserData)=>{
-    localStorage.setItem( "user", JSON.stringify( newUser))
-}
 
 const UserStore = create<Store>()((set) => ({
   user: {
