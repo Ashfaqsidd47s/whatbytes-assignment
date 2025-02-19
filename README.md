@@ -9,6 +9,7 @@ hear is the live website [link.](https://whatbytes-assignment-ki88.vercel.app/)
 
 ![screenshot](public/updateMarks.png)
 
+loom video about assignmen [link.](https://www.loom.com/share/000cadab1ba94539b863539ddc5053d0?sid=4188f4e3-927f-47bc-9b10-4de972c4d0c4)
 
 
 
