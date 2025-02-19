@@ -36,8 +36,7 @@ export default function UpdateData() {
   const user = UserStore((state)=> state.user) 
   const updateUserMarks = UserStore((state)=> state.updateMarks) 
   const {
-      register,
-      handleSubmit,
+    handleSubmit,
       setValue,
       trigger,
       formState: { errors },

@@ -1,7 +1,6 @@
 import UserMarksInfoSS from "@/components/cswrappers/UserMarksInfo";
 import UpdateData from "@/components/DialougBox";
 import { MyLineChart } from "@/components/LineChart";
-import Navbar from "@/components/Navbar";
 import { MarksPieChart } from "@/components/PiChart";
 import SylabusAnalysis from "@/components/SylabusAnalysis";
 import Image from "next/image";
