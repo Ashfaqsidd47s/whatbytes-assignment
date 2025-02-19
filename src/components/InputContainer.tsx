@@ -6,7 +6,7 @@ interface InputContainerProps {
   defaultValue: string;
   ind: number;
   getValue: (value: string) => void;
-  error?: string; // Accepts error message
+  error?: string; 
 }
 
 export default function InputContainer({
@@ -22,7 +22,7 @@ export default function InputContainer({
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const inputValue = e.target.value;
     setValue(inputValue);
-    getValue(inputValue); // Pass value back to parent
+    getValue(inputValue); 
   };
 
   return (
